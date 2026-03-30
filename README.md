@@ -113,7 +113,7 @@ Possible Improvements (Future Work)
 •	Deploy containerized workloads using Docker + ECS/EKS 
 
  Project Documentation
-Full step-by-step guide available here: 
+Full step-by-step guide available here: AWS-VPC-EC2.docx
 
 
 Conclusion
