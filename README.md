@@ -1,5 +1,6 @@
 # aws-vpc-ec2-deployment
 AWS VPC Architecture & EC2 Deployment Project
+ 
  Overview
 This project demonstrates the design and implementation of a custom Virtual Private Cloud (VPC) in Amazon Web Services, including network segmentation, security configuration, and deployment of a virtual machine using Amazon EC2.
 The goal is to build a secure, scalable, and production-aligned cloud network architecture from scratch, following core cloud networking and DevOps best practices.
